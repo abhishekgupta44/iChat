@@ -5,5 +5,5 @@
 
 
 
-Simple NodeJS Realtime Chat Application using Socket.IO
+Simple `NodeJS` Realtime Chat Application using `Socket.IO`
 
